@@ -1,0 +1,16 @@
+{
+  "gives": {
+    "id": "minecraft:spyglass"
+  },
+  "max_uses": 8,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 4,
+    "id": "minecraft:emerald"
+  },
+  "additional_wants": {
+    "count": 2,
+    "id": "minecraft:copper_ingot"
+  },
+  "xp": 15
+}
