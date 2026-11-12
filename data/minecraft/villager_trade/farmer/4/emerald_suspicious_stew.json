@@ -1,28 +1,44 @@
 {
-  "given_item_modifiers": [
-    {
-      "effects": [
-        { "type": "minecraft:night_vision", "duration": 5.0 },
-        { "type": "minecraft:jump_boost", "duration": 8.0 },
-        { "type": "minecraft:weakness", "duration": 7.0 },
-        { "type": "minecraft:blindness", "duration": 6.0 },
-        { "type": "minecraft:poison", "duration": 14.0 },
-        { "type": "minecraft:saturation", "duration": 7.0 }
-      ],
-      "function": "minecraft:set_stew_effect"
-    }
-  ],
-  "gives": {
-    "id": "minecraft:suspicious_stew"
-  },
-  "max_uses": 8.0,
-  "reputation_discount": 0.05,
-  "wants": {
-    "count": 3.0,
-    "id": "minecraft:emerald"
-  },
   "additional_wants": {
     "id": "minecraft:bowl"
   },
-  "xp": 15.0
+  "given_item_modifier": {
+    "type": "minecraft:set_stew_effect",
+    "effects": [
+      {
+        "type": "minecraft:night_vision",
+        "duration": 5
+      },
+      {
+        "type": "minecraft:jump_boost",
+        "duration": 8
+      },
+      {
+        "type": "minecraft:weakness",
+        "duration": 7
+      },
+      {
+        "type": "minecraft:blindness",
+        "duration": 6
+      },
+      {
+        "type": "minecraft:poison",
+        "duration": 14
+      },
+      {
+        "type": "minecraft:saturation",
+        "duration": 7
+      }
+    ]
+  },
+  "gives": {
+    "id": "minecraft:suspicious_stew"
+  },
+  "max_uses": 8,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 3,
+    "id": "minecraft:emerald"
+  },
+  "xp": 15
 }

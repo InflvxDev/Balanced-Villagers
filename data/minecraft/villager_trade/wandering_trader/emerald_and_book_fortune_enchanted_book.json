@@ -1,23 +1,21 @@
 {
   "additional_wants": {
-    "count": 1.0,
+    "count": 1,
     "id": "minecraft:book"
   },
-  "given_item_modifiers": [
-    {
-      "function": "minecraft:set_enchantments",
-      "enchantments": {
-        "minecraft:fortune": 3.0
-      }
+  "given_item_modifier": {
+    "type": "minecraft:set_enchantments",
+    "enchantments": {
+      "minecraft:fortune": 3
     }
-  ],
-  "gives": {
-    "id": "minecraft:book"
   },
-  "max_uses": 1.0,
+  "gives": {
+    "id": "minecraft:enchanted_book"
+  },
+  "max_uses": 1,
   "reputation_discount": 0.05,
   "wants": {
-    "count": 32.0,
+    "count": 32,
     "id": "minecraft:emerald"
   }
 }

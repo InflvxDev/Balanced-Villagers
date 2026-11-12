@@ -3,16 +3,14 @@
     "count": 1,
     "id": "minecraft:book"
   },
-  "given_item_modifiers": [
-    {
-      "function": "minecraft:set_enchantments",
-      "enchantments": {
-        "minecraft:mending": 1
-      }
+  "given_item_modifier": {
+    "type": "minecraft:set_enchantments",
+    "enchantments": {
+      "minecraft:mending": 1
     }
-  ],
+  },
   "gives": {
-    "id": "minecraft:book"
+    "id": "minecraft:enchanted_book"
   },
   "max_uses": 2,
   "reputation_discount": 0.05,

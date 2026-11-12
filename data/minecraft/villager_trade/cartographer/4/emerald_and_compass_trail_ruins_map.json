@@ -2,35 +2,34 @@
   "additional_wants": {
     "id": "minecraft:compass"
   },
-  "given_item_modifiers": [
+  "given_item_modifier": [
     {
+      "type": "minecraft:exploration_map",
       "decoration": "minecraft:red_x",
-      "destination": "balanced_villagers:on_trail_ruins_maps",
-      "function": "minecraft:exploration_map",
+      "destination": "#balanced_villagers:on_trail_ruins_maps",
       "search_radius": 100
     },
     {
-      "function": "minecraft:set_name",
+      "type": "minecraft:set_name",
       "name": {
         "text": "Mapa de ruinas de senderos"
       },
       "target": "item_name"
     },
     {
-      "function": "minecraft:filtered",
+      "type": "minecraft:filtered",
       "item_filter": {
-        "items": "minecraft:filled_map",
         "predicates": {
           "minecraft:map_id": {}
         }
       },
       "on_fail": {
-        "function": "minecraft:discard"
+        "type": "minecraft:discard"
       }
     }
   ],
   "gives": {
-    "id": "minecraft:map"
+    "id": "minecraft:filled_map"
   },
   "max_uses": 3,
   "reputation_discount": 0.05,
