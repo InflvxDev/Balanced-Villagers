@@ -1,0 +1,15 @@
+{
+  "gives": {
+    "id": "minecraft:glistering_melon_slice"
+  },
+  "max_uses": 8.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 3.0,
+    "id": "minecraft:emerald"
+  },
+  "additional_wants": {
+    "id": "minecraft:melon_slice"
+  },
+  "xp": 30.0
+}
