@@ -1,0 +1,33 @@
+{
+  "additional_wants": {
+    "id": "minecraft:compass"
+  },
+  "given_item_modifier": [
+    {
+      "type": "minecraft:exploration_map",
+      "decoration": "minecraft:desert_pyramid",
+      "destination": "#minecraft:on_desert_pyramid_maps",
+      "search_radius": 100
+    },
+    {
+      "type": "minecraft:filtered",
+      "item_filter": {
+        "predicates": {
+          "minecraft:map_id": {}
+        }
+      },
+      "on_fail": {
+        "type": "minecraft:discard"
+      }
+    }
+  ],
+  "gives": {
+    "id": "minecraft:desert_pyramid_map"
+  },
+  "max_uses": 1,
+  "reputation_discount": 0.05,
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 10
+  }
+}

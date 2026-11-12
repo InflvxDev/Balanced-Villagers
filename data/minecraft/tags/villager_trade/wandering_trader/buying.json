@@ -6,6 +6,8 @@
     "minecraft:wandering_trader/ominous_bottle_emerald",
     "minecraft:wandering_trader/echo_shard_emerald",
     "minecraft:wandering_trader/disc_fragment_emerald",
-    "minecraft:wandering_trader/turtle_scute_emerald"
+    "minecraft:wandering_trader/turtle_scute_emerald",
+    "minecraft:wandering_trader/ghast_tear_emerald",
+    "minecraft:wandering_trader/shulker_shell_emerald"
   ]
 }

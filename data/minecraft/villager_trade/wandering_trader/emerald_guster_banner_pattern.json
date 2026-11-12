@@ -1,0 +1,11 @@
+{
+  "gives": {
+    "id": "minecraft:guster_banner_pattern"
+  },
+  "max_uses": 1,
+  "reputation_discount": 0.05,
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 8
+  }
+}

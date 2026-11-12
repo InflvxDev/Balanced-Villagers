@@ -1,0 +1,11 @@
+{
+  "gives": {
+    "id": "minecraft:icicle",
+    "count": 2
+  },
+  "max_uses": 5,
+  "reputation_discount": 0.05,
+  "wants": {
+    "id": "minecraft:emerald"
+  }
+}

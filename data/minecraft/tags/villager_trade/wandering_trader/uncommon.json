@@ -1,11 +1,36 @@
 {
   "replace": true,
   "values": [
+    "minecraft:wandering_trader/emerald_and_compass_buried_treasure_map",
+    "minecraft:wandering_trader/emerald_and_compass_trial_chambers_map",
     "minecraft:wandering_trader/emerald_and_compass_ocean_monument_map",
     "minecraft:wandering_trader/emerald_and_compass_woodland_mansion_map",
+    "minecraft:wandering_trader/emerald_and_compass_desert_pyramid_map",
+    "minecraft:wandering_trader/emerald_and_compass_warm_ocean_ruins_map",
+    "minecraft:wandering_trader/emerald_and_compass_abandoned_camp_map",
+    "minecraft:wandering_trader/emerald_sniffer_egg",
+    "minecraft:wandering_trader/emerald_torchflower_seeds",
+    "minecraft:wandering_trader/emerald_pitcher_pod",
+    "minecraft:wandering_trader/emerald_spore_blossom",
+    "minecraft:wandering_trader/emerald_chorus_flower",
+    "minecraft:wandering_trader/emerald_turtle_egg",
+    "minecraft:wandering_trader/emerald_sponge",
+    "minecraft:wandering_trader/emerald_music_disc_pigstep",
+    "minecraft:wandering_trader/emerald_music_disc_otherside",
+    "minecraft:wandering_trader/emerald_music_disc_relic",
+    "minecraft:wandering_trader/emerald_wayfinder_armor_trim_smithing_template",
+    "minecraft:wandering_trader/emerald_coast_armor_trim_smithing_template",
+    "minecraft:wandering_trader/emerald_flow_banner_pattern",
+    "minecraft:wandering_trader/emerald_guster_banner_pattern",
+    "minecraft:wandering_trader/emerald_heart_of_the_sea",
+    "minecraft:wandering_trader/emerald_and_book_silk_touch_enchanted_book",
     "minecraft:wandering_trader/emerald_and_book_fortune_enchanted_book",
+    "minecraft:wandering_trader/emerald_ominous_bottle",
+    "minecraft:wandering_trader/emerald_trial_key",
     "minecraft:wandering_trader/emerald_goat_horn",
     "minecraft:wandering_trader/emerald_echo_shard",
-    "minecraft:wandering_trader/emerald_long_slow_falling_potion"
+    "minecraft:wandering_trader/emerald_long_slow_falling_potion",
+    "minecraft:wandering_trader/emerald_long_invisibility_potion",
+    "minecraft:wandering_trader/emerald_name_tag"
   ]
 }

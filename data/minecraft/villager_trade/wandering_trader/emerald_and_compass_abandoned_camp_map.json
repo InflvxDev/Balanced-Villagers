@@ -1,0 +1,33 @@
+{
+  "additional_wants": {
+    "id": "minecraft:compass"
+  },
+  "given_item_modifier": [
+    {
+      "type": "minecraft:exploration_map",
+      "decoration": "minecraft:abandoned_camp",
+      "destination": "#minecraft:abandoned_camp",
+      "search_radius": 100
+    },
+    {
+      "type": "minecraft:filtered",
+      "item_filter": {
+        "predicates": {
+          "minecraft:map_id": {}
+        }
+      },
+      "on_fail": {
+        "type": "minecraft:discard"
+      }
+    }
+  ],
+  "gives": {
+    "id": "minecraft:abandoned_camp_map"
+  },
+  "max_uses": 1,
+  "reputation_discount": 0.05,
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 8
+  }
+}
