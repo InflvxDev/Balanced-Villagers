@@ -1,0 +1,16 @@
+{
+  "given_item_modifier": {
+    "type": "minecraft:set_potion",
+    "id": "minecraft:weakness"
+  },
+  "gives": {
+    "id": "minecraft:splash_potion"
+  },
+  "max_uses": 3,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 4,
+    "id": "minecraft:emerald"
+  },
+  "xp": 10
+}
