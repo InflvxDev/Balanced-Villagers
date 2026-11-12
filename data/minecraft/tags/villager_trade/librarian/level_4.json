@@ -4,6 +4,7 @@
     "minecraft:librarian/4/writable_book_emerald",
     "minecraft:librarian/4/emerald_clock",
     "minecraft:librarian/4/emerald_compass",
-    "minecraft:librarian/4/emerald_lapis_lazuli"
+    "minecraft:librarian/4/emerald_lapis_lazuli",
+    "minecraft:librarian/4/emerald_book_and_enchanted_book"
   ]
 }

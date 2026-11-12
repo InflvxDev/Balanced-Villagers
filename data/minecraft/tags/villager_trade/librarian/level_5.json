@@ -3,11 +3,6 @@
   "values": [
     "minecraft:librarian/5/emerald_and_book_mending_enchanted_book",
     "minecraft:librarian/5/emerald_lapis_blocks",
-    "minecraft:librarian/5/emerald_book_stack",
-    "minecraft:librarian/5/emerald_name_tag",
-    "minecraft:librarian/4/emerald_clock",
-    "minecraft:librarian/4/emerald_compass",
-    "minecraft:librarian/2/emerald_lantern",
-    "minecraft:librarian/1/emerald_bookshelf"
+    "minecraft:librarian/5/emerald_book_stack"
   ]
 }
