@@ -1,6 +1,8 @@
 {
   "replace": true,
   "values": [
+    "minecraft:smith/2/iron_ingot_emerald",
+    "minecraft:smith/2/emerald_bell",
     "minecraft:armorer/2/emerald_chainmail_boots",
     "minecraft:armorer/2/emerald_chainmail_leggings"
   ]
