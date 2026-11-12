@@ -1,0 +1,15 @@
+{
+  "additional_wants": {
+    "id": "minecraft:water_bucket"
+  },
+  "gives": {
+    "id": "minecraft:axolotl_bucket"
+  },
+  "max_uses": 2,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 6,
+    "id": "minecraft:emerald"
+  },
+  "xp": 30
+}
