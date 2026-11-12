@@ -9,7 +9,6 @@
     "id": "minecraft:emerald"
   },
   "additional_wants": {
-    "count": 3.0,
     "id": "minecraft:string"
   },
   "xp": 5.0

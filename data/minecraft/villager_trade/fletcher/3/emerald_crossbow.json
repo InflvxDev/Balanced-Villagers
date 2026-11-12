@@ -9,8 +9,7 @@
     "id": "minecraft:emerald"
   },
   "additional_wants": {
-    "count": 2.0,
-    "id": "minecraft:string"
+    "id": "minecraft:iron_ingot"
   },
   "xp": 10.0
 }
