@@ -1,0 +1,16 @@
+{
+  "additional_wants": {
+    "count": 4,
+    "id": "minecraft:armadillo_scute"
+  },
+  "gives": {
+    "id": "minecraft:wolf_armor"
+  },
+  "max_uses": 2,
+  "reputation_discount": 0.2,
+  "wants": {
+    "count": 10,
+    "id": "minecraft:emerald"
+  },
+  "xp": 30
+}
