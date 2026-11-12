@@ -1,0 +1,16 @@
+{
+  "gives": {
+    "id": "minecraft:chainmail_leggings"
+  },
+  "max_uses": 8.0,
+  "reputation_discount": 0.2,
+  "wants": {
+    "count": 12.0,
+    "id": "minecraft:emerald"
+  },
+  "additional_wants": {
+    "count": 6.0,
+    "id": "minecraft:iron_ingot"
+  },
+  "xp": 5.0
+}

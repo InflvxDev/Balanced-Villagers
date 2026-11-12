@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:smith/1/coal_emerald",
+    "minecraft:toolsmith/1/emerald_stone_axe",
+    "minecraft:toolsmith/1/emerald_stone_shovel",
+    "minecraft:toolsmith/1/emerald_stone_pickaxe",
+    "minecraft:toolsmith/1/emerald_stone_hoe"
+  ]
+}

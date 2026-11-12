@@ -1,0 +1,23 @@
+{
+  "additional_wants": {
+    "count": 1.0,
+    "id": "minecraft:book"
+  },
+  "given_item_modifiers": [
+    {
+      "function": "minecraft:set_enchantments",
+      "enchantments": {
+        "minecraft:silk_touch": 1.0
+      }
+    }
+  ],
+  "gives": {
+    "id": "minecraft:book"
+  },
+  "max_uses": 1.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 22.0,
+    "id": "minecraft:emerald"
+  }
+}

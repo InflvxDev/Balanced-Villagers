@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:wandering_trader/nautilus_shell_emerald",
+    "minecraft:wandering_trader/goat_horn_emerald",
+    "minecraft:wandering_trader/ominous_bottle_emerald",
+    "minecraft:wandering_trader/echo_shard_emerald",
+    "minecraft:wandering_trader/disc_fragment_emerald",
+    "minecraft:wandering_trader/turtle_scute_emerald"
+  ]
+}

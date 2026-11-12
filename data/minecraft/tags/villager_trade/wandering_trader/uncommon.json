@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:wandering_trader/emerald_and_compass_ocean_monument_map",
+    "minecraft:wandering_trader/emerald_and_compass_woodland_mansion_map",
+    "minecraft:wandering_trader/emerald_and_book_fortune_enchanted_book",
+    "minecraft:wandering_trader/emerald_goat_horn",
+    "minecraft:wandering_trader/emerald_echo_shard",
+    "minecraft:wandering_trader/emerald_long_slow_falling_potion"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:wandering_trader/emerald_and_compass_buried_treasure_map",
+    "minecraft:wandering_trader/emerald_and_compass_trial_chambers_map",
+    "minecraft:wandering_trader/emerald_heart_of_the_sea",
+    "minecraft:wandering_trader/emerald_and_book_silk_touch_enchanted_book",
+    "minecraft:wandering_trader/emerald_ominous_bottle",
+    "minecraft:wandering_trader/emerald_trial_key"
+  ]
+}

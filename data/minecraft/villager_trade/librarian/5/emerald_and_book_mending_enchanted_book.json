@@ -1,0 +1,24 @@
+{
+  "additional_wants": {
+    "count": 1.0,
+    "id": "minecraft:book"
+  },
+  "given_item_modifiers": [
+    {
+      "function": "minecraft:set_enchantments",
+      "enchantments": {
+        "minecraft:mending": 1.0
+      }
+    }
+  ],
+  "gives": {
+    "id": "minecraft:book"
+  },
+  "max_uses": 1.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 48.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 30.0
+}
