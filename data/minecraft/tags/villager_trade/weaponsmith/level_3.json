@@ -1,6 +1,7 @@
 {
   "replace": true,
   "values": [
-    "minecraft:weaponsmith/3/flint_emerald"
+    "minecraft:weaponsmith/3/flint_emerald",
+    "minecraft:weaponsmith/3/emerald_enchanted_iron_spear"
   ]
 }

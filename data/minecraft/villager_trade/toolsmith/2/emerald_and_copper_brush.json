@@ -1,0 +1,16 @@
+{
+  "gives": {
+    "id": "minecraft:brush"
+  },
+  "max_uses": 8,
+  "reputation_discount": 0.2,
+  "wants": {
+    "count": 2,
+    "id": "minecraft:emerald"
+  },
+  "additional_wants": {
+    "count": 1,
+    "id": "minecraft:copper_ingot"
+  },
+  "xp": 5
+}
