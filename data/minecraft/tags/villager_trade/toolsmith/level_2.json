@@ -2,6 +2,7 @@
   "replace": true,
   "values": [
     "minecraft:smith/2/iron_ingot_emerald",
-    "minecraft:smith/2/emerald_bell"
+    "minecraft:smith/2/emerald_bell",
+    "minecraft:toolsmith/2/emerald_and_copper_brush"
   ]
 }

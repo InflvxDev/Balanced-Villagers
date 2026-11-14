@@ -2,7 +2,7 @@
   "replace": true,
   "values": [
     "minecraft:librarian/5/emerald_and_book_mending_enchanted_book",
-    "minecraft:librarian/5/emerald_lapis_blocks",
+    "minecraft:cleric/5/emerald_experience_bottle",
     "minecraft:librarian/5/emerald_book_stack"
   ]
 }
